@@ -1,0 +1,113 @@
+
+
+body {
+  background-color: skyblue;);
+  color: black;
+  font-family:  fantasy;
+}
+
+#heading {
+  color: dodgerblue;
+
+}
+
+
+
+
+
+header {
+ border: 1px solid black;
+ margin: 0px;
+ background-color: white;
+ padding: 5px;
+ letter-spacing:5px;
+ text-align: center;
+ box-shadow: 5px 5px 20px 10px   rgba(82, 179, 217, 1);
+ transition: all 1s;
+
+}
+
+}
+header > p {
+  letter-spacing: 2px;
+}
+header:hover{
+  background-color:  rgba(140, 20, 252, 1)
+}
+
+article{
+  border: 1px solid black;
+  margin-right: : 0px;
+  background-color: white;
+  display: inline-table;
+  padding: 10px;
+  width: 300px;
+  height:700px;
+  text-align: center;
+  box-shadow: 5px 5px 20px 10px   rgba(82, 179, 217, 1);
+  transition: all 1s;
+}
+article:hover{
+  background-color: rgba(140, 20, 252, 1);
+  box-shadow:  5px 5px 20px;
+
+
+}
+
+
+article img{
+  width: 150px;
+  height: 190px;
+   padding: 0px;
+   border-radius: 250px;
+
+
+}
+
+.sunrise {
+  width: 300px;
+  height: 200px;
+
+}
+
+.about {
+  max-width: 300px;
+  max-height: 50px;
+
+
+
+}
+
+.music {
+  width: 300px;
+  height: 200px;
+
+}
+
+.night{
+  width: 300px;
+  height: 200px;
+
+}
+
+div{
+  padding: 57px;
+}
+
+section{
+  max-height: 300px;
+  overflow: hidden;
+  overflow: scroll;
+  text-align: center;
+  border: 1px solid black;
+  background-color: white;
+  box-shadow: 5px 5px 20px 10px   rgba(82, 179, 217, 1);
+  border-radius: 400px;
+  transition: all 1s;
+
+
+}
+section:hover{
+  font-size: 20px;
+  background-color: rgba(240, 255, 0, 1)
+}
